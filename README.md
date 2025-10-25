@@ -35,4 +35,4 @@ alx-airbnb-project-documentation/
 └── README.md
 ```
 
-This file is ready to be saved as `README.md` in the root of your repo. Let me know if you want it translated into French or Arabic for multilingual presentation!
+
