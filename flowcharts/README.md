@@ -1,7 +1,7 @@
 
-# Flowcharts — Airbnb Clone System
+# Flowchart — Airbnb Clone System
 
-This directory contains flowcharts that visualize the step-by-step logic behind key backend processes in the Airbnb Clone system. Each flowchart maps decisions, actions, and data flow to support development, debugging, and documentation.
+This directory contains flowchart that visualize the step-by-step logic behind key backend processes in the Airbnb Clone system. Each flowchart maps decisions, actions, and data flow to support development, debugging, and documentation.
 
 
 
