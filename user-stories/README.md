@@ -14,7 +14,7 @@ User stories help define:
 
 
 
-## 📁 File Structure
+##  File Structure
 
 ```
 user-stories/
@@ -27,7 +27,7 @@ user-stories/
 
 
 
-## 👥 Roles Covered
+## Roles Covered
 
 - User (Guest)
 - Host
@@ -37,5 +37,5 @@ user-stories/
 
 
 
-Let me know if you'd like to add Agile sprint tags, acceptance criteria, or translate this into French or Arabic!
+
 
