@@ -34,7 +34,7 @@ use-case-diagram/
 
 
 
-## 🚀 Usage
+##  Usage
 
 This diagram supports:
 - Feature planning and prioritization
